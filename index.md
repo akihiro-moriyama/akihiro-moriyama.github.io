@@ -1,4 +1,4 @@
-# Akihiro MORIYAMA Profiles
+# Akihiro MORIYAMA Profile
 
 ## Profile
 
@@ -15,5 +15,5 @@
 
 ## Projects
 
-note:ウェブコンテンツ「GitHub PagesとMDwikiでウェブサイトを構築する」  
+note:ウェブコンテンツ「GitHub PagesとMDwikiでウェブサイトを構築する」
 https://akihiro-moriyama.github.io/how-to-publish-websites-on-github-pages/#!index.md
