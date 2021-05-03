@@ -16,7 +16,7 @@
 ## Projects
 
 note:ウェブコンテンツ「GitHub PagesとMDwikiでウェブサイトを構築する」
-https://akihiro-moriyama.github.io/how-to-publish-websites-on-github-pages/#!index.md
+https://akihiro-moriyama.github.io/how-to-publish-websites-on-github-pages/
 
 note:ウェブコンテンツ「UX Design Glossary (UXデザイン用語集)」
-https://akihiro-moriyama.github.io/ux-design-glossary/#!index.md
+https://akihiro-moriyama.github.io/ux-design-glossary/
