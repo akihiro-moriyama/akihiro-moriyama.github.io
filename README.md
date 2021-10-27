@@ -1,6 +1,6 @@
 # このリポジトリについて
 
-このリポジトリは、私 Akihiro MORIYAMA のポートフォリオサイト( [https://akihiro-moriyama.github.io](https://akihiro-moriyama.github.io) )を管理するためのものです。
+このリポジトリは、私 Akihiro MORIYAMA のポートフォリオサイト( [https://akihiro-moriyama.github.io/](https://akihiro-moriyama.github.io/) )を管理するためのものです。
 
 このリポジトリには、MDwiki( [https://github.com/Dynalon/mdwiki/](https://github.com/Dynalon/mdwiki/) )の著作物が含まれています。MDwikiはGPLv3ライセンスに基づいて公開されています。
 
