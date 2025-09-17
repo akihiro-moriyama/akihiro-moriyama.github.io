@@ -20,3 +20,6 @@ https://akihiro-moriyama.github.io/how-to-publish-websites-on-github-pages/
 
 note:ウェブコンテンツ「UX Design Glossary (UXデザイン用語集)」
 https://akihiro-moriyama.github.io/ux-design-glossary/
+
+note:ウェブコンテンツ「UX Design Behavioral Design Glossary (UX行動設計用語集)」
+https://akihiro-moriyama.github.io/ux-behavioral-design-glossary/
